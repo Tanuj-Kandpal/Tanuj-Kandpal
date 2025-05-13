@@ -1,6 +1,5 @@
 
-# 👨‍💻 Tanuj Kandpal | Automation Test Engineer | SDET | QA Analyst
-
+# 👨‍💻 Tanuj Kandpal | SDET 
 🚀 Passionate about building scalable, reliable, and robust test automation frameworks with 4+ years of experience in Web, Mobile, and API testing across cloud environments.
 
 ---
